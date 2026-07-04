@@ -142,3 +142,4 @@ Project: Temperature Converter
 Technology Stack: HTML, CSS, JavaScript, Java (Jakarta Servlet)
 
 OUTPUT:
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/eaa1c0da-8f10-4b98-b93a-dd0eea81a8fe" />
